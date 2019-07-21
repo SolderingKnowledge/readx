@@ -2,7 +2,7 @@
 `npm start`  to start the project
 
 
-`docker build -t containername .` should all lowercase the container name
+`docker build -t containername .` container name should be all in lowercase
 
  `docker run -it containername` to run docker container and you will end up in you root server.
 
